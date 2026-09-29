@@ -1,0 +1,13 @@
+name = "TacZ - Refabricated (Unofficial Port)"
+filename = "TACZ-Refabricated-26.2-0.8.3-beta2+fabric26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lLryDmIs/versions/JGxXP0Ol/TACZ-Refabricated-26.2-0.8.3-beta2%2Bfabric26.2.jar"
+hash-format = "sha512"
+hash = "5b51fc8ff1fd2e8cbd1cf11320d6b336fbe02336e0e708bf6439f4994820000154d4d31dc19ea0e060e502e9eeaa22ca51849354fd9c2be98b16df1e6425235f"
+
+[update]
+[update.modrinth]
+mod-id = "lLryDmIs"
+version = "JGxXP0Ol"
