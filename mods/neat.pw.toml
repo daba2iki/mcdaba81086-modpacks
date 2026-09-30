@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-26.2-50-FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/p2EHScB1/Neat-26.2-50-FABRIC.jar"
+hash-format = "sha512"
+hash = "de2b5e0b67fcf35a6ff1bd7563080edd10d89c381f377438ae02184ca28db648fe5d7f40e0165b4c826c7afddef6d709d6079776217a8c562469e680d7df6028"
+
+[update]
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "p2EHScB1"
