@@ -21,6 +21,11 @@ hash = "2c7716d3ad04c2dc38771184e2ef23523bd6ed4c88c922b13ad43e01914ee60c"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "6107fab1b7a928c10cdf0164686b4e3609db5ead2114c8fe91cea97287be163f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "79a8dda297400e6f8c3275fc18d94b08b1960b719ae0746b5543eebcb8f54750"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "00bb7b173be4ead135663449c2cc50036b1ff24ad1c164ba56fda9e3c3f60c8c"
 metafile = true
 
 [[files]]
