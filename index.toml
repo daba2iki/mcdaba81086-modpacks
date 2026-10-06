@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
 metafile = true
 
 [[files]]
@@ -43,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d0d32a4cf3915c836d6966c97d5f4944e2717d2f6bedcd479bb3ab00a3cd1c9b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c600911d4b263b38aa38cbbbb144214f95a76dbd10adf94c78a00d65b35910a2"
 metafile = true
 
 [[files]]
@@ -126,6 +131,11 @@ hash = "cfd82363b33192a90d7f0e63dc6149f9b37507d8ee428fc1cfdea48063a91720"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "1544786be681afc0fd642587472a0455aa61cbe2ba1d42d891dc1d5bf4c8eefb"
+metafile = true
+
+[[files]]
 file = "mods/unofficial-tacz-refabricated.pw.toml"
 hash = "e982679ad1e97913ce741844ac5d30bc74a8a3cf202b251217c5bfcd5854be10"
 metafile = true
@@ -133,3 +143,7 @@ metafile = true
 [[files]]
 file = "tacz/ARIPS_ver.1.3.0.zip"
 hash = "5bc39b5709e405e277e3488fb2c9bb34f79061b5c4206b6df2fd62bd95b129f3"
+
+[[files]]
+file = "tacz/GunpowderRevolution_gunpack v1.5.4_1.zip"
+hash = "6d7309c6d50f6827a12d05014a1cb45654bfe7f66447c5f50fdabaccd12199dc"
